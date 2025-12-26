@@ -1,0 +1,6 @@
+dist/*
+dist.zip
+*.md
+*.json
+.DS_Store
+node_modules
